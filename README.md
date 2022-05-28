@@ -12,7 +12,7 @@ Good Algorithm Qualities:
 
 Algorithm 1: Add two integers that the user has supplied:
 
-![image](https://user-images.githubusercontent.com/92441323/170814015-45cbb189-99f4-4d83-afc5-40dae59ab724.png)
+![image](https://user-images.githubusercontent.com/92441323/170814127-6ce30bc7-8a01-448f-be7a-e2b443c0f9a3.png)
 
 Algorithm 2: Among three numbers, find the greatest number:
 
