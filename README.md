@@ -16,5 +16,5 @@ Algorithm 1: Add two integers that the user has supplied:
 
 Algorithm 2: Among three numbers, find the greatest number:
 
-![image](https://user-images.githubusercontent.com/92441323/170814067-3f451e89-0172-4ad8-bafc-8114f94ade49.png)
+![image](https://user-images.githubusercontent.com/92441323/170814096-55b2bfd3-4976-48f1-b3a3-9e54e6f42e96.png)
 
